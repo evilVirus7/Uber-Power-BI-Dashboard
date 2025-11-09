@@ -67,5 +67,8 @@ Key analyses performed:
 
 ---
 
-## 📁 Repository Structure  
-"# Uber-Power-BI-Dashboard" 
+#### 🖥️ Dashboard Screens
+
+
+### Home Page
+![Overview Page](https://github.com/evilVirus7/Uber-Power-BI-Dashboard/blob/master/Screenshot%202025-10-26%20225244.png)
