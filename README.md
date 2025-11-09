@@ -10,6 +10,15 @@ The aim was to understand **user behavior, optimize driver allocation**, and **e
 
 ---
 
+#### 🖥️ Dashboard Screens
+
+---
+
+### Overview Page
+![Overview Page](https://github.com/evilVirus7/Uber-Power-BI-Dashboard/blob/master/Screenshot%202025-10-26%20225244.png)
+
+---
+
 ## 🎯 Objectives  
 - Identify **peak hours**, **popular routes**, and **high-demand days**  
 - Analyze **ride frequency and revenue trends** over time  
@@ -66,9 +75,3 @@ Key analyses performed:
   - Geographical Map – Trip concentration by area  
 
 ---
-
-#### 🖥️ Dashboard Screens
-
-
-### Overview Page
-![Overview Page](https://github.com/evilVirus7/Uber-Power-BI-Dashboard/blob/master/Screenshot%202025-10-26%20225244.png)
